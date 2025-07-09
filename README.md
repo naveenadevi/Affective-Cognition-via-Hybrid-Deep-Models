@@ -25,6 +25,13 @@ Achieved 93% classification accuracy on emotion-labeled datasets.
 - Scikit-learn, NLTK  
 
 ---
+## Architectures
+
+![Screenshot 2025-07-09 201413](https://github.com/user-attachments/assets/6ca14eb0-7c97-43dd-9bf2-54f5f05bb398)
+![Screenshot 2025-07-09 195657](https://github.com/user-attachments/assets/814c2a35-bbae-4ef8-9362-3744603fc3f3)
+![image](https://github.com/user-attachments/assets/6f54fff5-048d-4d51-b442-b335980a0b33)
+
+
 
 ## Results
 
